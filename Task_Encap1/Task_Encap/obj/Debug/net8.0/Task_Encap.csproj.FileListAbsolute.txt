@@ -1,0 +1,14 @@
+C:\Users\ulvir\source\repos\Task_Encap\Task_Encap\bin\Debug\net8.0\Task_Encap.exe
+C:\Users\ulvir\source\repos\Task_Encap\Task_Encap\bin\Debug\net8.0\Task_Encap.deps.json
+C:\Users\ulvir\source\repos\Task_Encap\Task_Encap\bin\Debug\net8.0\Task_Encap.runtimeconfig.json
+C:\Users\ulvir\source\repos\Task_Encap\Task_Encap\bin\Debug\net8.0\Task_Encap.dll
+C:\Users\ulvir\source\repos\Task_Encap\Task_Encap\bin\Debug\net8.0\Task_Encap.pdb
+C:\Users\ulvir\source\repos\Task_Encap\Task_Encap\obj\Debug\net8.0\Task_Encap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulvir\source\repos\Task_Encap\Task_Encap\obj\Debug\net8.0\Task_Encap.AssemblyInfoInputs.cache
+C:\Users\ulvir\source\repos\Task_Encap\Task_Encap\obj\Debug\net8.0\Task_Encap.AssemblyInfo.cs
+C:\Users\ulvir\source\repos\Task_Encap\Task_Encap\obj\Debug\net8.0\Task_Encap.csproj.CoreCompileInputs.cache
+C:\Users\ulvir\source\repos\Task_Encap\Task_Encap\obj\Debug\net8.0\Task_Encap.dll
+C:\Users\ulvir\source\repos\Task_Encap\Task_Encap\obj\Debug\net8.0\refint\Task_Encap.dll
+C:\Users\ulvir\source\repos\Task_Encap\Task_Encap\obj\Debug\net8.0\Task_Encap.pdb
+C:\Users\ulvir\source\repos\Task_Encap\Task_Encap\obj\Debug\net8.0\Task_Encap.genruntimeconfig.cache
+C:\Users\ulvir\source\repos\Task_Encap\Task_Encap\obj\Debug\net8.0\ref\Task_Encap.dll

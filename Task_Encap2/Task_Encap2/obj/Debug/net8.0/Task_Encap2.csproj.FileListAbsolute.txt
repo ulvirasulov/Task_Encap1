@@ -1,0 +1,14 @@
+C:\Users\ulvir\OneDrive\Desktop\Task_Encap2\Task_Encap2\bin\Debug\net8.0\Task_Encap2.exe
+C:\Users\ulvir\OneDrive\Desktop\Task_Encap2\Task_Encap2\bin\Debug\net8.0\Task_Encap2.deps.json
+C:\Users\ulvir\OneDrive\Desktop\Task_Encap2\Task_Encap2\bin\Debug\net8.0\Task_Encap2.runtimeconfig.json
+C:\Users\ulvir\OneDrive\Desktop\Task_Encap2\Task_Encap2\bin\Debug\net8.0\Task_Encap2.dll
+C:\Users\ulvir\OneDrive\Desktop\Task_Encap2\Task_Encap2\bin\Debug\net8.0\Task_Encap2.pdb
+C:\Users\ulvir\OneDrive\Desktop\Task_Encap2\Task_Encap2\obj\Debug\net8.0\Task_Encap2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulvir\OneDrive\Desktop\Task_Encap2\Task_Encap2\obj\Debug\net8.0\Task_Encap2.AssemblyInfoInputs.cache
+C:\Users\ulvir\OneDrive\Desktop\Task_Encap2\Task_Encap2\obj\Debug\net8.0\Task_Encap2.AssemblyInfo.cs
+C:\Users\ulvir\OneDrive\Desktop\Task_Encap2\Task_Encap2\obj\Debug\net8.0\Task_Encap2.csproj.CoreCompileInputs.cache
+C:\Users\ulvir\OneDrive\Desktop\Task_Encap2\Task_Encap2\obj\Debug\net8.0\Task_Encap2.dll
+C:\Users\ulvir\OneDrive\Desktop\Task_Encap2\Task_Encap2\obj\Debug\net8.0\refint\Task_Encap2.dll
+C:\Users\ulvir\OneDrive\Desktop\Task_Encap2\Task_Encap2\obj\Debug\net8.0\Task_Encap2.pdb
+C:\Users\ulvir\OneDrive\Desktop\Task_Encap2\Task_Encap2\obj\Debug\net8.0\Task_Encap2.genruntimeconfig.cache
+C:\Users\ulvir\OneDrive\Desktop\Task_Encap2\Task_Encap2\obj\Debug\net8.0\ref\Task_Encap2.dll
